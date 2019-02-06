@@ -1,0 +1,12 @@
+-----------------------
+Extract 7z file in unix
+-----------------------
+
+List Contents:
+
+7za l myarchive.7z
+
+Extract contents:
+
+7za x myarchive.7z
+
